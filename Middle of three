@@ -1,5 +1,6 @@
 class Solution{
   public:
+    // middle of three numbers
     int middle(int A, int B, int C){
         
         if (A>B){
